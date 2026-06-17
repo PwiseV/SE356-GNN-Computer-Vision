@@ -106,20 +106,6 @@ Trình duyệt sẽ tự mở. Vào folder `notebooks/` → click **`01_demo_pre
 
 ---
 
-## 🎤 ĐOẠN PHÁT BIỂU KHI DEMO LIVE
-
-Nếu thầy yêu cầu demo trực tiếp:
-
-> "Dạ nhóm em xin phép demo Notebook 1 — chạy Faster R-CNN baseline. Đây là model đã được train trên COCO 118K ảnh, đạt mAP 37 đúng như paper gốc.
->
-> *(Mở notebook 01, chạy đến cell visualize)*
->
-> Đây là kết quả phát hiện trên ảnh từ COCO val2017. Model phát hiện được [X] đối tượng với confidence > 0.7.
->
-> Trong Notebook 2, nhóm em implement GAT module từ scratch theo paper Veličković 2018, và tích hợp vào pipeline này. Phần training trên full dataset nhóm em đang chạy, dự kiến hoàn thiện cho báo cáo cuối kỳ."
-
----
-
 ## 📚 Tài liệu tham khảo
 
 - [GAT Paper (Veličković et al., 2018)](https://arxiv.org/abs/1710.10903)
